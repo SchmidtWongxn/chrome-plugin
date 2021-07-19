@@ -1,4 +1,4 @@
-<img src="src/assets/img/icon.png" width="64"/>
+
 
 # Chrome Extension Boilerplate with React 17 and Webpack 5
 
