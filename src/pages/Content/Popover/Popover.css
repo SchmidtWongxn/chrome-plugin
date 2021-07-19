@@ -1,0 +1,8 @@
+.Popover {
+  position: fixed;
+  width: 200px;
+  height: 400px;
+  right: 150px;
+  top: 150px;
+  background-color: #ccc;
+}
